@@ -21,10 +21,11 @@ background-color: hsl(212, 45%, 89%);
   width: 220px;
   background-color: white;
   border-radius: 10px;
+  box-shadow: 3px 5px rgb(200, 199, 199);
+  
 }
 
 .image {
-padding: 10px 10px 20px 10px;
 border-radius: 10px;
 }
 .QR {
@@ -49,11 +50,4 @@ border-radius: 10px;
   font-size: 12px;
   text-align: center;
   color: grey;
-}
-
-@media (min-width: 768px) {
-  .container {
-      padding: 1.5rem;
-  
-  }
 }
