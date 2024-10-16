@@ -27,6 +27,7 @@ background-color: hsl(212, 45%, 89%);
 
 .image {
 border-radius: 10px;
+padding: 10px;
 }
 .QR {
   border-radius: 10px;
